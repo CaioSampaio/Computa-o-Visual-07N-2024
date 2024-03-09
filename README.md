@@ -2,7 +2,7 @@
 
 Grupo:
   * Caio Sampaio - RA 10391053;
-  * Guilherme Picoli - RA .
+  * Guilherme Picoli - RA 10389843.
 
 ## Execício e Avaliações
 
